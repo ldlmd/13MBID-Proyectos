@@ -9,6 +9,9 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Alumno: Lorena de la Madrid Descalzo
+Inicio actividad : 12/03
+
 ## Descripción del contenido
 
 Carpetas:
